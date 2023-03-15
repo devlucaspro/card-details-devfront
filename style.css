@@ -68,7 +68,7 @@ body {
 #card2 {
     background-image: url(./assets/card2.png);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     width: 400px;
     height: 220px;
